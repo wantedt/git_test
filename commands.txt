@@ -1,0 +1,16 @@
+git init
+git add .
+git commit -m'commitment'
+git status
+touch //新建文件
+git-log
+git reset --hard <commit ID>
+
+git branch
+git checkout -b //创建并切换分支
+git merge
+git branch -d
+
+//远程仓库
+git remote add origin +仓库路径
+git push origin master
